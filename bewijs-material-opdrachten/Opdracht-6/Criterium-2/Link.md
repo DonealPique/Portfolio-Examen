@@ -7,6 +7,9 @@ table {
     padding-top: 5%;
     padding-bottom: 3%;
 }
+body {
+    text-align: center;
+}
 </style>
 
 | Teamleden     | Description | Richting     |
