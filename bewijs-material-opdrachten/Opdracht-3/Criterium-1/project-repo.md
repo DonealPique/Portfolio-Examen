@@ -49,3 +49,19 @@ Een teamlid (Anouk) was helaas halverwege het project gestopt en reageerde niet 
 - Hoe je een componentenstructuur opzet binnen een groter teamproject.
 - Werken met Git, branches en commit messages om overzicht te houden.
 - Flexibel inspelen op onverwachte problemen (zoals het wegvallen van een teamlid).
+---
+Hier onder staan link naar videos and screenshots git activity:
+
+[Commit history overview](../Criterium-2/Commit-history-overview.mp4)
+
+<video controls src="../Criterium-2/Commit-history-overview.mp4" title="Commit history overview"></video>
+
+[Github commit history](../Criterium-2/github-commit-history.mp4)
+
+<video controls src="../Criterium-2/github-commit-history.mp4" title="Github commit history"></video>
+---
+
+![](../Criterium-2/pull%20request/overview-pull-request.png)
+---
+
+![](../Criterium-2/pull%20request/Pull-request-sprint3-calendar-added.png)
