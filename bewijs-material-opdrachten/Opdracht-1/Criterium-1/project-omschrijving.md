@@ -2,7 +2,7 @@
 
 ## Opdrachtgever
 
-Endeavour  
+![Endeavour](Endeavor_Group_logo.svg)
 
 ## Afdeling
 

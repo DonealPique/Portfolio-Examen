@@ -24,9 +24,9 @@ body {
 
 Link naar youtube video :
 
-* [Daily Stand-up dag 1](https://youtu.be/qhswBZ0L8cc)
+* [Daily Stand-up met team](https://www.youtube.com/watch?v=Vm9HjDKOftY&ab_channel=DonealPiqu%C3%A9)
 
-* ## Dag 2 Daily Stand-up
+* ## Daily Stand-up
 
 Vandaag hebben we besproken wat iedereen gaat doen en waarmee ze momenteel bezig zijn, evenals wat ze tijdens de vakantie gaan doen. We hebben ook besproken hoe we de voortgang kunnen bijhouden door dagelijks statusupdates te schrijven.
 
