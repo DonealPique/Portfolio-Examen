@@ -2,7 +2,8 @@
 
 ## Opdrachtgever
 
-![](../Portfolio-Examen/bewijs-material-opdrachten/Opdracht-1/Criterium-1/Endeavor_Group_logo.svg)
+![](../Je-portfolio-75ea80491509-6e9924cdf50d/bewijs-material-opdrachten/Opdracht-1/Criterium-1/Endeavor_Group_logo.svg)  
+
 
 ## Afdeling
 
