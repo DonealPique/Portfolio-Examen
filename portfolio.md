@@ -1,9 +1,63 @@
-# Project Omschrijving
+# 🎓 Portfolio Examen - Doneal Piqué
+
+Welkom bij mijn portfolio examen!  
+In deze repository vind je al mijn werk en bewijsstukken, netjes gestructureerd per opdracht en per criterium.
+
+Alles is gebaseerd op het examenformat van de Bit Academy.
+
+---
+
+## 📚 Structuur van het Portfolio
+
+Hieronder vind je een duidelijk overzicht van alle opdrachten, gekoppeld aan hun criteria en bijbehorende bestanden:
+
+| ✅ Opdracht | 📌 Criterium | 🔗 Link |
+|------------|--------------|--------|
+| **Opdracht 1** | Criterium 1.1 | [Projectomschrijving](./bewijs-material-opdrachten/Opdracht-1/Criterium-1/project-omschrijving.md) |
+|              | Criterium 1.1 | [Definition of Done](./bewijs-material-opdrachten/Opdracht-1/Criterium-1/definition-of-done.md) |
+|              | Criterium 1.2 | [Backlog Screenshot](./bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/sprint1_eind.png) |
+|              | Criterium 1.2 | [User Stories](./bewijs-material-opdrachten/Opdracht-1/Criterium-2/user-stories.md) |
+|              | Criterium 1.3 | [Planning](./bewijs-material-opdrachten/Opdracht-1/Criterium-3/planning.md) |
+|              | Criterium 1.4 | [Voortgangsbewaking](./bewijs-material-opdrachten/Opdracht-1/Criterium-4/voortgang.md) |
+| **Opdracht 2** | Criterium 2.1 - 2.2 | [Sequence Diagram (PNG)](./bewijs-material-opdrachten/Opdracht-2/Criterium-1/Sequence%20diagram%20-%20Event%20planner.png) |
+|              | Criterium 2.1 - 2.2 | [Sequence Diagram (Lucidchart)](./bewijs-material-opdrachten/Opdracht-2/Criterium-1/uml-diagram.md) |
+|              | Criterium 2.3 | [UML Onderbouwing](./bewijs-material-opdrachten/Opdracht-2/Criterium-2/uml-onderbouwing.md) |
+| **Opdracht 3** | Criterium 3.1 - 3.5 | [Mijn bijdrage & Commits](./bewijs-material-opdrachten/Opdracht-3/Criterium-1/project-repo.md) |
+|              | Criterium 3.1 - 3.5 | [Project Repository (zip)](./bewijs-material-opdrachten/Opdracht-3/Criterium-1/Bounty-project-endeavour-x-bit-academy-main.zip) |
+|              | Criterium 3.6 | [Commits log](./bewijs-material-opdrachten/Opdracht-3/Criterium-2/my-commits.md) |
+|              | Criterium 3.6 | [Commit History Video](./bewijs-material-opdrachten/Opdracht-3/Criterium-2/github-commit-history.mp4) |
+|              | Criterium 3.6 | [Commit History Overview](./bewijs-material-opdrachten/Opdracht-3/Criterium-2/Commit-history-overview.mp4) |
+| **Opdracht 4** | Criterium 4.1 - 4.2 | *(Nog toe te voegen)* |
+|              | Criterium 4.3 | *(Nog toe te voegen)* |
+| **Opdracht 5** | Criterium 5.1 - 5.3 | *(Nog toe te voegen)* |
+| **Opdracht 6** | Criterium 6.1 - 6.2 | [Daily Stand-ups](./bewijs-material-opdrachten/Opdracht-6/Criterium-1/Daily-standups.md) |
+|              | Criterium 6.1 - 6.2 | [Overleg met Team/Coach](./bewijs-material-opdrachten/Opdracht-6/Criterium-2/overleg-sessie.md) |
+|              | Criterium 6.3 - 6.4 | [Afspraken binnen team](./bewijs-material-opdrachten/Opdracht-6/Criterium-3/afspraken.md) |
+| **Opdracht 7** | Criterium 7.1 - 7.3 | [Eindpresentatie Reflectie](./bewijs-material-opdrachten/Opdracht-7/Criterium-1/eind-presentatie.md) |
+| **Opdracht 8** | Criterium 8.1 - 8.3 | [Retrospective](./bewijs-material-opdrachten/Opdracht-8/Criterium-1/retrospective.md) |
+
+---
+
+## ✅ Wat je kunt verwachten
+
+In dit portfolio vind je alles wat ik heb gedaan tijdens het project:
+
+- Mijn eigen bijdragen aan de codebase
+- Samenwerking met mijn teamleden
+- Een complete set aan user stories, planning, en commitbewijzen
+- Een afsluitende reflectie
+
+---
+
+> Bedankt voor het bekijken van mijn portfolio.  
+> Alles wat je hier ziet is het resultaat van weken hard werken, leren en samenwerken!
+---
+
+## Project Omschrijving
 
 ## Opdrachtgever
 
 ![](../Je-portfolio-75ea80491509-6e9924cdf50d/bewijs-material-opdrachten/Opdracht-1/Criterium-1/Endeavor_Group_logo.svg)  
-
 
 ## Afdeling
 
