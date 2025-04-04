@@ -27,9 +27,11 @@ Hieronder vind je een duidelijk overzicht van alle opdrachten, gekoppeld aan hun
 |              | Criterium 3.6 | [Commits log](./bewijs-material-opdrachten/Opdracht-3/Criterium-2/my-commits.md) |
 |              | Criterium 3.6 | [Commit History Video](./bewijs-material-opdrachten/Opdracht-3/Criterium-2/github-commit-history.mp4) |
 |              | Criterium 3.6 | [Commit History Overview](./bewijs-material-opdrachten/Opdracht-3/Criterium-2/Commit-history-overview.mp4) |
-| **Opdracht 4** | Criterium 4.1 - 4.2 | *(Nog toe te voegen)* |
-|              | Criterium 4.3 | *(Nog toe te voegen)* |
-| **Opdracht 5** | Criterium 5.1 - 5.3 | *(Nog toe te voegen)* |
+| **Opdracht 4** | Criterium 4.1 - 4.2 | [Test Code](./bewijs-material-opdrachten/Opdracht-4/Criterium-1/cypress/e2e/EventPlanner_spec.cy.js) |
+| | Criterium 4.1 - 4.2 | [Test Plan](./bewijs-material-opdrachten/Opdracht-4/Criterium-1/Test-Plan.md) |
+|              | Criterium 4.3 | [Test Resultaten Screenshot](/bewijs-material-opdrachten/Opdracht-4/Criterium-2/test-resultaten.png) |
+|              | Criterium 4.3 | [Test Rapport](/bewijs-material-opdrachten/Opdracht-4/Criterium-2/Test-Rapport.md) |
+| **Opdracht 5** | Criterium 5.1 - 5.3 | [Verbetervoorstellen](/bewijs-material-opdrachten/Opdracht-5/Criterium-1/Verbetervoorstellen.md) |
 | **Opdracht 6** | Criterium 6.1 - 6.2 | [Daily Stand-ups](./bewijs-material-opdrachten/Opdracht-6/Criterium-1/Daily-standups.md) |
 |              | Criterium 6.1 - 6.2 | [Overleg met Team/Coach](./bewijs-material-opdrachten/Opdracht-6/Criterium-2/overleg-sessie.md) |
 |              | Criterium 6.3 - 6.4 | [Afspraken binnen team](./bewijs-material-opdrachten/Opdracht-6/Criterium-3/afspraken.md) |
@@ -57,7 +59,7 @@ In dit portfolio vind je alles wat ik heb gedaan tijdens het project:
 
 ## Opdrachtgever
 
-![](../Je-portfolio-75ea80491509-6e9924cdf50d/bewijs-material-opdrachten/Opdracht-1/Criterium-1/Endeavor_Group_logo.svg)  
+![](/bewijs-material-opdrachten/Opdracht-1/Criterium-1/Endeavor_Group_logo.svg)
 
 ## Afdeling
 

@@ -1,0 +1,882 @@
+Author: Doneal Piqué 
+Date/Time:  Mon, 16 Dec 2024 10:10:46 +0100
+Commit: fix
+Author: Doneal Piqué 
+Date/Time:  Wed, 27 Nov 2024 11:00:54 +0100
+Commit: stashed change  update
+Author: Doneal Piqué 
+Date/Time:  Wed, 27 Nov 2024 10:49:45 +0100
+Commit: Merge pull request #33 from Bit-Academy-Students/BBA-52
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 27 Nov 2024 10:26:21 +0100
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-52
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 26 Nov 2024 20:12:23 +0100
+Commit: add: EventBekijken
+Author: Shazib Syed 
+Date/Time:  Tue, 26 Nov 2024 09:03:47 +0100
+Commit: Merge pull request #32 from Bit-Academy-Students/BBA-42-docker-database
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 26 Nov 2024 08:49:51 +0100
+Commit: ÍmageCollection styling
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 26 Nov 2024 08:20:27 +0100
+Commit: add: start imageCollection edit: Interesting facts
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 21:35:58 +0100
+Commit: Merge branch 'BBA-52' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-52
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 21:35:46 +0100
+Commit: add: fun events edit: emailForm edit: EventBekijken
+Author: Shazib Syed 
+Date/Time:  Mon, 25 Nov 2024 15:27:42 +0100
+Commit: Update README.md
+Author: Shazib Syed 
+Date/Time:  Mon, 25 Nov 2024 14:19:22 +0100
+Commit: Merge pull request #31 from Bit-Academy-Students/BBA-42-docker-database
+Author: Shazib Syed 
+Date/Time:  Mon, 25 Nov 2024 14:08:08 +0100
+Commit: new quotes
+Author: Shazib Syed 
+Date/Time:  Mon, 25 Nov 2024 13:57:05 +0100
+Commit: api for quotes
+Author: Shazib Syed 
+Date/Time:  Mon, 25 Nov 2024 13:56:24 +0100
+Commit: update to read me
+Author: Shazib Syed 
+Date/Time:  Mon, 25 Nov 2024 13:54:26 +0100
+Commit: new datadase is added for quotes
+Author: Osman Talha Umucu 
+Date/Time:  Mon, 25 Nov 2024 11:32:21 +0100
+Commit: navbar search results backend added
+Author: Doneal Piqué 
+Date/Time:  Mon, 25 Nov 2024 10:45:01 +0100
+Commit: Merge pull request #30 from Bit-Academy-Students/BBA-52
+Author: Osman Talha Umucu 
+Date/Time:  Mon, 25 Nov 2024 10:42:06 +0100
+Commit: styling fixed
+Author: Osman Talha Umucu 
+Date/Time:  Mon, 25 Nov 2024 10:24:10 +0100
+Commit: app.jsx fixed en styling gefixed
+Author: Osman Talha Umucu 
+Date/Time:  Mon, 25 Nov 2024 10:08:09 +0100
+Commit: front end af
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 09:56:39 +0100
+Commit: add: other adjustments
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 02:38:54 +0100
+Commit: add: funny facts
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 02:36:46 +0100
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-52
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 02:36:12 +0100
+Commit: Merge pull request #29 from Bit-Academy-Students/BBA-25-Random-quotes
+Author: Doneal Piqué 
+Date/Time:  Mon, 25 Nov 2024 02:03:41 +0100
+Commit: rm
+Author: Doneal Piqué 
+Date/Time:  Mon, 25 Nov 2024 02:02:34 +0100
+Commit: added symbol
+Author: Doneal Piqué 
+Date/Time:  Mon, 25 Nov 2024 01:50:11 +0100
+Commit: Merge pull request #28 from Bit-Academy-Students/BBA-50-AfgelopenEvents-Pagina
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 01:43:08 +0100
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-50-AfgelopenEvents-Pagina
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 01:37:35 +0100
+Commit: Merge pull request #27 from Bit-Academy-Students/BBA-25-Random-quotes
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 01:36:23 +0100
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-50-AfgelopenEvents-Pagina
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 01:35:58 +0100
+Commit: add: OnThisEvent
+Author: Doneal Piqué 
+Date/Time:  Mon, 25 Nov 2024 01:13:09 +0100
+Commit: Add: quotes styling done
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 01:12:12 +0100
+Commit: add: On this Event
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 25 Nov 2024 00:47:25 +0100
+Commit: add: eventQuotes
+Author: Doneal Piqué 
+Date/Time:  Mon, 25 Nov 2024 00:06:31 +0100
+Commit: Merge pull request #26 from Bit-Academy-Students/BBA-50-AfgelopenEvents-Pagina
+Author: Nour Saif Yassine 
+Date/Time:  Sun, 24 Nov 2024 23:34:59 +0100
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-50-AfgelopenEvents-Pagina
+Author: Nour Saif Yassine 
+Date/Time:  Sun, 24 Nov 2024 23:26:05 +0100
+Commit: add: location date from database
+Author: Doneal Piqué 
+Date/Time:  Sun, 24 Nov 2024 22:34:54 +0100
+Commit: Merge pull request #24 from Bit-Academy-Students/BBA-1
+Author: Doneal Piqué 
+Date/Time:  Sun, 24 Nov 2024 22:34:44 +0100
+Commit: Merge pull request #25 from Bit-Academy-Students/BBA-42-docker-database
+Author: Nour Saif Yassine 
+Date/Time:  Sun, 24 Nov 2024 21:52:24 +0100
+Commit: add: EventBekijken Styles
+Author: Nour Saif Yassine 
+Date/Time:  Sun, 24 Nov 2024 16:05:45 +0100
+Commit: add: emailform
+Author: Nour Saif Yassine 
+Date/Time:  Sat, 23 Nov 2024 17:58:52 +0100
+Commit: add: counter
+Author: Shazib Syed 
+Date/Time:  Sat, 23 Nov 2024 17:37:53 +0100
+Commit: Update README.md
+Author: Shazib Syed 
+Date/Time:  Sat, 23 Nov 2024 17:33:59 +0100
+Commit: details.php
+Author: Shazib Syed 
+Date/Time:  Sat, 23 Nov 2024 16:25:32 +0100
+Commit: Delete previous-page.php
+Author: Shazib Syed 
+Date/Time:  Sat, 23 Nov 2024 16:25:06 +0100
+Commit: new-events update
+Author: Nour Saif Yassine 
+Date/Time:  Sat, 23 Nov 2024 15:22:02 +0100
+Commit: add: link naar google maps
+Author: Nour Saif Yassine 
+Date/Time:  Sat, 23 Nov 2024 13:13:55 +0100
+Commit: preparing for pull request
+Author: Nour Saif Yassine 
+Date/Time:  Sat, 23 Nov 2024 13:12:26 +0100
+Commit: preparing for pull request
+Author: Nour Saif Yassine 
+Date/Time:  Sat, 23 Nov 2024 12:58:41 +0100
+Commit: pull from main
+Author: Nour Saif Yassine 
+Date/Time:  Sat, 23 Nov 2024 12:47:37 +0100
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-1
+Author: Nour Saif Yassine 
+Date/Time:  Sat, 23 Nov 2024 12:17:21 +0100
+Commit: add backend events routes event bekijken button
+Author: Nour Saif Yassine 
+Date/Time:  Sat, 23 Nov 2024 12:15:33 +0100
+Commit: add backend events routes event bekijken button
+Author: Doneal Piqué 
+Date/Time:  Sat, 23 Nov 2024 02:04:33 +0100
+Commit: recente events link added
+Author: Doneal Piqué 
+Date/Time:  Sat, 23 Nov 2024 01:36:44 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy
+Author: Doneal Piqué 
+Date/Time:  Sat, 23 Nov 2024 01:35:52 +0100
+Commit: Footer link added
+Author: Nour Saif Yassine 
+Date/Time:  Sat, 23 Nov 2024 01:34:15 +0100
+Commit: add: tried to connect <Link>
+Author: Doneal Piqué 
+Date/Time:  Sat, 23 Nov 2024 01:12:19 +0100
+Commit: Event overview page done + router link + card limit
+Author: Nour Saif Yassine 
+Date/Time:  Fri, 22 Nov 2024 23:03:23 +0100
+Commit: add: Router not yet for events
+Author: Doneal Piqué 
+Date/Time:  Fri, 22 Nov 2024 22:42:35 +0100
+Commit: Home components added
+Author: Doneal Piqué 
+Date/Time:  Fri, 22 Nov 2024 22:09:00 +0100
+Commit: Merge branch 'BBA-6-Aankomende-events-section' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy
+Author: Doneal Piqué 
+Date/Time:  Fri, 22 Nov 2024 22:05:01 +0100
+Commit: styling fix
+Author: Doneal Piqué 
+Date/Time:  Fri, 22 Nov 2024 21:46:22 +0100
+Commit: Merge branch 'BBA-20-Recente-Events' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-6-Aankomende-events-section
+Author: Doneal Piqué 
+Date/Time:  Fri, 22 Nov 2024 21:44:29 +0100
+Commit: styling fixed + added link
+Author: Doneal Piqué 
+Date/Time:  Fri, 22 Nov 2024 20:40:38 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy
+Author: Nour Saif Yassine 
+Date/Time:  Fri, 22 Nov 2024 20:27:25 +0100
+Commit: add: router
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 21 Nov 2024 15:33:46 +0100
+Commit: remove: App.css
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 15:31:02 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 21 Nov 2024 15:30:39 +0100
+Commit: add: image
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 21 Nov 2024 15:26:52 +0100
+Commit: remove: Link tag
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 15:24:02 +0100
+Commit: Merge branch 'BBA-6-Aankomende-events-section' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 21 Nov 2024 15:21:50 +0100
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-6-Aankomende-events-section
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 21 Nov 2024 15:20:14 +0100
+Commit: add: PlaceholderImage.png
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 15:12:24 +0100
+Commit: Merge pull request #20 from Bit-Academy-Students/BBA-20-Recente-Events
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 15:11:44 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-20-Recente-Events
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 15:06:34 +0100
+Commit: Merge pull request #21 from Bit-Academy-Students/BBA-6-Aankomende-events-section
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 15:04:36 +0100
+Commit: files toegevoegd
+Author: Shazib Syed 
+Date/Time:  Thu, 21 Nov 2024 14:54:56 +0100
+Commit: likes is remove
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 21 Nov 2024 14:53:51 +0100
+Commit: add: navbar styles
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 14:53:40 +0100
+Commit: fixed merge conflict
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 14:50:29 +0100
+Commit: fixed styling + added to home
+Author: Shazib Syed 
+Date/Time:  Thu, 21 Nov 2024 14:48:36 +0100
+Commit: update to readme
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 14:08:22 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 21 Nov 2024 14:04:33 +0100
+Commit: Merge pull request #17 from Bit-Academy-Students/BBA-24-video-speler
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 14:01:54 +0100
+Commit: api implementatie toegevoegd
+Author: Shazib Syed 
+Date/Time:  Thu, 21 Nov 2024 13:46:00 +0100
+Commit: update
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 13:31:55 +0100
+Commit: Merge pull request #19 from Bit-Academy-Students/BBA-42-docker-database
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 13:21:39 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-24-video-speler
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 21 Nov 2024 13:18:01 +0100
+Commit: Merge pull request #16 from Bit-Academy-Students/BBA-43-aanpak-trots-section
+Author: Shazib Syed 
+Date/Time:  Thu, 21 Nov 2024 12:28:03 +0100
+Commit: new-events.php
+Author: Shazib Syed 
+Date/Time:  Thu, 21 Nov 2024 12:22:26 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-42-docker-database
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 21 Nov 2024 12:20:38 +0100
+Commit: Merge pull request #14 from Bit-Academy-Students/BBA-3-events-trips-teller
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 12:18:31 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-3-events-trips-teller
+Author: Shazib Syed 
+Date/Time:  Thu, 21 Nov 2024 12:16:47 +0100
+Commit: Delete previous-page.php
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 12:14:26 +0100
+Commit: Merge branch 'BBA-3-events-trips-teller' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy conflict fixed
+Author: Doneal Piqué 
+Date/Time:  Thu, 21 Nov 2024 12:11:15 +0100
+Commit: conflict fix
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 21 Nov 2024 12:04:21 +0100
+Commit: Merge pull request #18 from Bit-Academy-Students/BBA-15-Calendar-Filter
+Author: Shazib Syed 
+Date/Time:  Thu, 21 Nov 2024 12:00:02 +0100
+Commit: Database.sql
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 21 Nov 2024 11:41:42 +0100
+Commit: add: react-router-dom
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 20 Nov 2024 14:04:40 +0100
+Commit: contact section added
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 20 Nov 2024 14:00:40 +0100
+Commit: nieuwe section en carousel styling
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 20 Nov 2024 10:44:57 +0100
+Commit: card style fixed
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 20 Nov 2024 08:57:08 +0100
+Commit: first section
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 19 Nov 2024 10:34:01 +0100
+Commit: error gefixed
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 19 Nov 2024 10:27:53 +0100
+Commit: react-router-dom fail
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 12 Nov 2024 13:53:22 +0100
+Commit: add: react-router-dom add: EventCard
+Author: Doneal Piqué 
+Date/Time:  Fri, 8 Nov 2024 00:54:40 +0100
+Commit: done: Calendar filter
+Author: Doneal Piqué 
+Date/Time:  Thu, 7 Nov 2024 17:02:23 +0100
+Commit: Calendar created (styling needs to be fixed)
+Author: Doneal Piqué 
+Date/Time:  Thu, 7 Nov 2024 16:27:50 +0100
+Commit: Done: VideoSpeler
+Author: Doneal Piqué 
+Date/Time:  Thu, 7 Nov 2024 14:04:07 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy
+Author: Doneal Piqué 
+Date/Time:  Thu, 7 Nov 2024 14:03:53 +0100
+Commit: edit: width fix
+Author: Doneal Piqué 
+Date/Time:  Thu, 7 Nov 2024 00:50:30 +0100
+Commit: Done: aanpak/trots-section
+Author: Doneal Piqué 
+Date/Time:  Wed, 6 Nov 2024 16:22:24 +0100
+Commit: Done: Teamsection cards + styling + responsiveness
+Author: Doneal Piqué 
+Date/Time:  Wed, 6 Nov 2024 15:44:53 +0100
+Commit: Created team cards
+Author: Doneal Piqué 
+Date/Time:  Wed, 6 Nov 2024 15:21:48 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-3-events-trips-teller
+Author: Doneal Piqué 
+Date/Time:  Wed, 6 Nov 2024 15:19:57 +0100
+Commit: prop types error fix
+Author: Doneal Piqué 
+Date/Time:  Wed, 6 Nov 2024 14:30:57 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-15-Calendar-Filter
+Author: Doneal Piqué 
+Date/Time:  Wed, 6 Nov 2024 12:27:55 +0100
+Commit: Done: eventsCounter
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 6 Nov 2024 09:59:16 +0100
+Commit: npm packages opnieuw geinstalleerd
+Author: Doneal Piqué 
+Date/Time:  Wed, 6 Nov 2024 09:57:42 +0100
+Commit: Merge pull request #12 from Bit-Academy-Students/BBA-42-docker-database
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 6 Nov 2024 09:18:45 +0100
+Commit: placeholder image
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 5 Nov 2024 14:40:40 +0100
+Commit: add: more styling and edit anouk title img
+Author: Doneal Piqué 
+Date/Time:  Tue, 5 Nov 2024 14:01:22 +0100
+Commit: cards responsiveness fully fixed
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 5 Nov 2024 13:50:55 +0100
+Commit: hoogte aangepast van carousel div
+Author: AnoukvanGemert 
+Date/Time:  Tue, 5 Nov 2024 13:50:34 +0100
+Commit: add recente events met backend
+Author: AnoukvanGemert 
+Date/Time:  Tue, 5 Nov 2024 13:49:36 +0100
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-20-Recente-Events
+Author: AnoukvanGemert 
+Date/Time:  Tue, 5 Nov 2024 13:48:14 +0100
+Commit: add shadow
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 5 Nov 2024 13:46:55 +0100
+Commit: Merge branch 'BBA-1' of github.com:Bit-Academy-Students/Bounty-project-eneavour-x-bit-academy into BBA-1
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 5 Nov 2024 13:45:34 +0100
+Commit: carousel done
+Author: AnoukvanGemert 
+Date/Time:  Tue, 5 Nov 2024 13:39:34 +0100
+Commit: added backend
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 5 Nov 2024 13:30:25 +0100
+Commit: add: other components into new branch
+Author: AnoukvanGemert 
+Date/Time:  Tue, 5 Nov 2024 13:23:50 +0100
+Commit: add recente events met backend
+Author: AnoukvanGemert 
+Date/Time:  Tue, 5 Nov 2024 13:06:12 +0100
+Commit: add aankomende events met backend
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 5 Nov 2024 13:02:40 +0100
+Commit: add: hr element with margin bottom
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 5 Nov 2024 11:36:37 +0100
+Commit: navbar to top
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 5 Nov 2024 11:23:21 +0100
+Commit: app.jsx error fixed
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 5 Nov 2024 11:20:45 +0100
+Commit: Merge branch 'BBA-8-title-afbeelding' into BBA-1
+Author: Doneal Piqué 
+Date/Time:  Tue, 5 Nov 2024 10:19:31 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy
+Author: Doneal Piqué 
+Date/Time:  Tue, 5 Nov 2024 10:19:19 +0100
+Commit: small styling fixes
+Author: AnoukvanGemert 
+Date/Time:  Tue, 5 Nov 2024 10:06:42 +0100
+Commit: aankomende events section done zonder backend
+Author: AnoukvanGemert 
+Date/Time:  Tue, 5 Nov 2024 10:04:28 +0100
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-6-Aankomende-events-section
+Author: AnoukvanGemert 
+Date/Time:  Tue, 5 Nov 2024 09:56:21 +0100
+Commit: add app.jsx
+Author: AnoukvanGemert 
+Date/Time:  Tue, 5 Nov 2024 09:55:58 +0100
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-20-Recente-Events
+Author: Doneal Piqué 
+Date/Time:  Tue, 5 Nov 2024 09:48:15 +0100
+Commit: Merge pull request #13 from Bit-Academy-Students/BBA-10-VoorstelEvent
+Author: AnoukvanGemert 
+Date/Time:  Tue, 5 Nov 2024 09:45:11 +0100
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-10-VoorstelEvent
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 5 Nov 2024 09:42:09 +0100
+Commit: Merge branch 'BBA-12'
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 5 Nov 2024 09:25:07 +0100
+Commit: search results responsiveness fixed
+Author: Doneal Piqué 
+Date/Time:  Tue, 5 Nov 2024 00:37:07 +0100
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy
+Author: Doneal Piqué 
+Date/Time:  Tue, 5 Nov 2024 00:36:49 +0100
+Commit: cards responsiveness fixes
+Author: Osman Talha Umucu 
+Date/Time:  Mon, 4 Nov 2024 18:38:57 +0100
+Commit: searchbar completed
+Author: Osman Talha Umucu 
+Date/Time:  Mon, 4 Nov 2024 17:26:45 +0100
+Commit: changed fake data to real data and filter done
+Author: Osman Talha Umucu 
+Date/Time:  Mon, 4 Nov 2024 17:04:12 +0100
+Commit: fake data fetched and checked
+Author: AnoukvanGemert 
+Date/Time:  Thu, 24 Oct 2024 14:32:26 +0200
+Commit: add apckage.json
+Author: AnoukvanGemert 
+Date/Time:  Thu, 24 Oct 2024 14:12:22 +0200
+Commit: add seacrhbar
+Author: Nour Saif Yassine 
+Date/Time:  Thu, 24 Oct 2024 13:47:24 +0200
+Commit: edit: EventBekijken
+Author: Osman Talha Umucu 
+Date/Time:  Thu, 24 Oct 2024 09:48:16 +0200
+Commit: search autocomplete package installed
+Author: AnoukvanGemert 
+Date/Time:  Thu, 24 Oct 2024 09:42:50 +0200
+Commit: add cards width height aangepast
+Author: AnoukvanGemert 
+Date/Time:  Wed, 23 Oct 2024 13:57:38 +0200
+Commit: add contact in origin
+Author: AnoukvanGemert 
+Date/Time:  Wed, 23 Oct 2024 13:40:45 +0200
+Commit: add cards met origin
+Author: AnoukvanGemert 
+Date/Time:  Wed, 23 Oct 2024 12:01:48 +0200
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-6-Aankomende-events-section
+Author: AnoukvanGemert 
+Date/Time:  Wed, 23 Oct 2024 11:53:09 +0200
+Commit: add contactSection in app.jsx
+Author: AnoukvanGemert 
+Date/Time:  Wed, 23 Oct 2024 11:47:59 +0200
+Commit: Merge branch 'main' of https://github.com/Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-10-VoorstelEvent
+Author: AnoukvanGemert 
+Date/Time:  Wed, 23 Oct 2024 10:45:28 +0200
+Commit: add recenteEvents in app.jsx
+Author: Ties Noordhuis 
+Date/Time:  Wed, 23 Oct 2024 10:19:58 +0200
+Commit: Merge branch 'main' into BBA-42-docker-database
+Author: Ties Noordhuis 
+Date/Time:  Wed, 23 Oct 2024 10:17:43 +0200
+Commit: fix folder name
+Author: Doneal Piqué 
+Date/Time:  Wed, 23 Oct 2024 10:02:39 +0200
+Commit: Merge pull request #11 from Bit-Academy-Students/BBA-42-docker-database
+Author: Doneal Piqué 
+Date/Time:  Wed, 23 Oct 2024 00:01:58 +0200
+Commit: Merge pull request #4 from Bit-Academy-Students/BBA-20-Recente-Events
+Author: Doneal Piqué 
+Date/Time:  Wed, 23 Oct 2024 00:00:43 +0200
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-20-Recente-Events
+Author: Ties Noordhuis 
+Date/Time:  Tue, 22 Oct 2024 15:15:49 +0200
+Commit: add seeder to instruction
+Author: Ties Noordhuis 
+Date/Time:  Tue, 22 Oct 2024 15:11:38 +0200
+Commit: add docker instruction and fix database
+Author: Doneal Piqué 
+Date/Time:  Tue, 22 Oct 2024 13:06:48 +0200
+Commit: Merge pull request #5 from Bit-Academy-Students/BBA-1
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 22 Oct 2024 10:59:04 +0200
+Commit: edit: responsive
+Author: TiesNoordhuisBITAcademy 
+Date/Time:  Tue, 22 Oct 2024 09:52:44 +0200
+Commit: Merge pull request #10 from Bit-Academy-Students/fix-add-json-fallback-to-database
+Author: Ties Noordhuis 
+Date/Time:  Tue, 22 Oct 2024 09:50:45 +0200
+Commit: add fallback
+Author: TiesNoordhuisBITAcademy 
+Date/Time:  Tue, 22 Oct 2024 09:41:38 +0200
+Commit: Merge pull request #9 from Bit-Academy-Students/BBA-19-PHP-API-Gegevens-laadfunctie
+Author: Ties Noordhuis 
+Date/Time:  Tue, 22 Oct 2024 09:41:06 +0200
+Commit: merging new main
+Author: Ties Noordhuis 
+Date/Time:  Tue, 22 Oct 2024 09:38:58 +0200
+Commit: adding changes to make it work with FE
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 22 Oct 2024 09:38:00 +0200
+Commit: , error fixed
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 22 Oct 2024 09:32:20 +0200
+Commit: Merge branch 'BBA-2'
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 22 Oct 2024 09:30:37 +0200
+Commit: footer justify fixed
+Author: Ties Noordhuis 
+Date/Time:  Tue, 22 Oct 2024 09:28:29 +0200
+Commit: merging
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 22 Oct 2024 07:58:06 +0200
+Commit: added new backend
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 22 Oct 2024 07:48:25 +0200
+Commit: edit: scroll
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 22 Oct 2024 07:47:05 +0200
+Commit: edit: scroll
+Author: Doneal Piqué 
+Date/Time:  Tue, 22 Oct 2024 00:56:53 +0200
+Commit: temp added components
+Author: Doneal Piqué 
+Date/Time:  Tue, 22 Oct 2024 00:39:34 +0200
+Commit: Merge pull request #8 from Bit-Academy-Students/BBA-5-cultuur-section
+Author: Doneal Piqué 
+Date/Time:  Tue, 22 Oct 2024 00:36:48 +0200
+Commit: finished cultuur-section
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 23:00:48 +0200
+Commit: project description and usage instruction
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 22:52:09 +0200
+Commit: Add Database
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 22:50:51 +0200
+Commit: Add Database
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 22:46:56 +0200
+Commit: display upcoming events.
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 22:43:54 +0200
+Commit: event search functionality
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 22:32:30 +0200
+Commit: display old events.
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 22:30:13 +0200
+Commit: display all events
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 22:25:42 +0200
+Commit:  Load all JSON data into the SQL database
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 22:19:54 +0200
+Commit:  database connection using PDO.
+Author: Doneal Piqué 
+Date/Time:  Mon, 21 Oct 2024 16:21:34 +0200
+Commit: redone
+Author: Doneal Piqué 
+Date/Time:  Mon, 21 Oct 2024 11:18:57 +0200
+Commit: temporarily finished responsiveness
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 10:17:54 +0200
+Commit:  upcoming events php script
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 09:59:38 +0200
+Commit: Zoekfunctionaliteit php script
+Author: Doneal Piqué 
+Date/Time:  Mon, 21 Oct 2024 09:53:10 +0200
+Commit: Merge branch 'main' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-31-frontend-event-preview
+Author: Syed-100 
+Date/Time:  Mon, 21 Oct 2024 09:43:24 +0200
+Commit: new branch Zoekfunctionaliteit voor evenementen
+Author: Doneal Piqué 
+Date/Time:  Thu, 17 Oct 2024 16:37:19 +0200
+Commit: fix: quick changes
+Author: Doneal Piqué 
+Date/Time:  Wed, 16 Oct 2024 16:09:26 +0200
+Commit: fix-IG: responsiveness + styling
+Author: AnoukvanGemert 
+Date/Time:  Wed, 16 Oct 2024 10:54:30 +0200
+Commit: add contact v1
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 16 Oct 2024 09:39:15 +0200
+Commit: navbar moved to the top
+Author: AnoukvanGemert 
+Date/Time:  Wed, 16 Oct 2024 09:28:09 +0200
+Commit: git add ContactSection.jsx
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 16 Oct 2024 09:02:21 +0200
+Commit: add vendor to gitignore
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 16 Oct 2024 09:00:32 +0200
+Commit: remove node_modules
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 16 Oct 2024 08:40:20 +0200
+Commit: node modules installed
+Author: Doneal Piqué 
+Date/Time:  Tue, 15 Oct 2024 16:03:09 +0200
+Commit: fix: styling changes
+Author: AnoukvanGemert 
+Date/Time:  Tue, 15 Oct 2024 14:40:10 +0200
+Commit: add titel image v1
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 15 Oct 2024 14:30:28 +0200
+Commit: Merge branch 'BBA-36'
+Author: AnoukvanGemert 
+Date/Time:  Tue, 15 Oct 2024 14:25:11 +0200
+Commit: add events for big card only
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 15 Oct 2024 14:00:43 +0200
+Commit: navbar.jsx comments deleted
+Author: Osman Talha Umucu 
+Date/Time:  Tue, 15 Oct 2024 13:58:26 +0200
+Commit: hover effect navbar
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 15 Oct 2024 13:55:18 +0200
+Commit: edit: App with Backend. add: EventBekijken
+Author: AnoukvanGemert 
+Date/Time:  Tue, 15 Oct 2024 13:01:14 +0200
+Commit: git add title and image v1
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 15 Oct 2024 12:07:23 +0200
+Commit: edit: app
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 15 Oct 2024 11:31:46 +0200
+Commit: edit: app and svgs
+Author: AnoukvanGemert 
+Date/Time:  Tue, 15 Oct 2024 09:53:56 +0200
+Commit: Merge branch 'main' into BBA-6-Aankomende-events-section
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 15 Oct 2024 07:40:39 +0200
+Commit: edit: main with backend error
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 15 Oct 2024 07:21:56 +0200
+Commit: edit: removed file
+Author: Doneal Piqué 
+Date/Time:  Mon, 14 Oct 2024 15:40:25 +0200
+Commit: add: early pagination, filters, search
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 14 Oct 2024 12:34:37 +0200
+Commit: edit: removed justify around
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 14 Oct 2024 12:24:34 +0200
+Commit: edit: img logo
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 14 Oct 2024 12:14:21 +0200
+Commit: edit: added arrow up
+Author: Nour Saif Yassine 
+Date/Time:  Mon, 14 Oct 2024 11:30:59 +0200
+Commit: edit: Footer with navbar and fixed ml-10
+Author: Doneal Piqué 
+Date/Time:  Mon, 14 Oct 2024 10:03:28 +0200
+Commit: fix: merge conflicts
+Author: Nour Saif Yassine 
+Date/Time:  Fri, 11 Oct 2024 16:09:31 +0200
+Commit: added fixed mobile size for the width
+Author: Nour Saif Yassine 
+Date/Time:  Fri, 11 Oct 2024 15:59:21 +0200
+Commit: added flex-wrap to all sizes
+Author: Nour Saif Yassine 
+Date/Time:  Fri, 11 Oct 2024 14:49:43 +0200
+Commit: added html smooth behavior
+Author: Nour Saif Yassine 
+Date/Time:  Fri, 11 Oct 2024 14:48:52 +0200
+Commit: Merge branch 'main' into BBA-2
+Author: Nour Saif Yassine 
+Date/Time:  Fri, 11 Oct 2024 14:40:10 +0200
+Commit: added html smooth behavior
+Author: Doneal Piqué 
+Date/Time:  Fri, 11 Oct 2024 01:19:25 +0200
+Commit: edit: styling fix
+Author: Doneal Piqué 
+Date/Time:  Thu, 10 Oct 2024 16:15:50 +0200
+Commit: cards created + responsive + fetches api
+Author: Syed-100 
+Date/Time:  Thu, 10 Oct 2024 15:28:40 +0200
+Commit: json evenementen is add to sql database table
+Author: AnoukvanGemert 
+Date/Time:  Thu, 10 Oct 2024 15:11:14 +0200
+Commit: add version 1
+Author: AnoukvanGemert 
+Date/Time:  Thu, 10 Oct 2024 12:26:47 +0200
+Commit: add
+Author: Osman Talha Umucu 
+Date/Time:  Thu, 10 Oct 2024 11:34:20 +0200
+Commit: input field added and done
+Author: Osman Talha Umucu 
+Date/Time:  Thu, 10 Oct 2024 10:36:58 +0200
+Commit: transition effect added
+Author: AnoukvanGemert 
+Date/Time:  Thu, 10 Oct 2024 10:35:56 +0200
+Commit: version 1
+Author: Osman Talha Umucu 
+Date/Time:  Thu, 10 Oct 2024 10:25:19 +0200
+Commit: done
+Author: Osman Talha Umucu 
+Date/Time:  Thu, 10 Oct 2024 10:03:18 +0200
+Commit: screen size deleted and body tag deleted in app.js
+Author: AnoukvanGemert 
+Date/Time:  Wed, 9 Oct 2024 21:19:14 +0200
+Commit: final version1
+Author: AnoukvanGemert 
+Date/Time:  Wed, 9 Oct 2024 16:04:16 +0200
+Commit: add app.jsx
+Author: AnoukvanGemert 
+Date/Time:  Wed, 9 Oct 2024 15:25:06 +0200
+Commit: version 1
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 13:37:59 +0200
+Commit: added screens fix
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 13:36:25 +0200
+Commit: added main
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 13:33:08 +0200
+Commit: Responsive fix
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 13:16:34 +0200
+Commit: added inpu styling
+Author: AnoukvanGemert 
+Date/Time:  Wed, 9 Oct 2024 12:35:28 +0200
+Commit: version1 not responsive yet
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 12:16:31 +0200
+Commit: added input styling
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 9 Oct 2024 13:46:25 +0200
+Commit: navbar en footer samengesteld - footer horizontal alignment fixed
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 9 Oct 2024 13:43:14 +0200
+Commit: Merge branch 'BBA-11'
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 9 Oct 2024 13:39:43 +0200
+Commit: navbar done
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 9 Oct 2024 13:35:25 +0200
+Commit: navbar done + responsive
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 9 Oct 2024 10:43:28 +0200
+Commit: tailwind pulled from main
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 9 Oct 2024 10:38:47 +0200
+Commit: Merge branch 'main' into BBA-11
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 10:09:42 +0200
+Commit: Merge branch 'BBA-2'
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 9 Oct 2024 10:09:11 +0200
+Commit: tailwind.config.js added
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 10:08:48 +0200
+Commit: added screens, arrow up
+Author: Osman Talha Umucu 
+Date/Time:  Wed, 9 Oct 2024 10:07:03 +0200
+Commit: navbar.jsx added and checked
+Author: AnoukvanGemert 
+Date/Time:  Wed, 9 Oct 2024 10:04:28 +0200
+Commit: add cards
+Author: AnoukvanGemert 
+Date/Time:  Wed, 9 Oct 2024 10:03:49 +0200
+Commit: add tailwind
+Author: AnoukvanGemert 
+Date/Time:  Wed, 9 Oct 2024 09:50:01 +0200
+Commit: add card.jsx
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 09:41:06 +0200
+Commit: Merge branch 'BBA-2'
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 09:40:40 +0200
+Commit: added screen sizes
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 08:26:50 +0200
+Commit: Merge branch 'BBA-2'
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 08:25:49 +0200
+Commit: added Footer
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 08:19:12 +0200
+Commit: Merge branch 'BBA-2'
+Author: Nour Saif Yassine 
+Date/Time:  Wed, 9 Oct 2024 08:18:50 +0200
+Commit: added footer styling
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 8 Oct 2024 20:27:36 +0200
+Commit: Merge branch 'BBA-2'
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 8 Oct 2024 20:25:38 +0200
+Commit: added Basic Footer
+Author: Syed-100 
+Date/Time:  Tue, 8 Oct 2024 16:30:19 +0200
+Commit: Merge branch 'BBA-1-api-event-details' of github.com:Bit-Academy-Students/Bounty-project-endeavour-x-bit-academy into BBA-1-api-event-details
+Author: Syed-100 
+Date/Time:  Tue, 8 Oct 2024 16:30:14 +0200
+Commit: Update event-details.php
+Author: Ties Noordhuis 
+Date/Time:  Tue, 8 Oct 2024 16:23:22 +0200
+Commit: expand readme
+Author: Syed-100 
+Date/Time:  Tue, 8 Oct 2024 16:06:30 +0200
+Commit: Getting data form JSON
+Author: Syed-100 
+Date/Time:  Tue, 8 Oct 2024 16:02:50 +0200
+Commit: Getting data form JSON
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 8 Oct 2024 15:37:08 +0200
+Commit: Merge pull request #2 from Bit-Academy-Students/BBA-0-frontend-init
+Author: Ties Noordhuis 
+Date/Time:  Tue, 8 Oct 2024 15:30:12 +0200
+Commit: lock file for packages
+Author: Ties Noordhuis 
+Date/Time:  Tue, 8 Oct 2024 15:26:16 +0200
+Commit: react setup with vite
+Author: TiesNoordhuisBITAcademy 
+Date/Time:  Tue, 8 Oct 2024 15:19:01 +0200
+Commit: Merge pull request #1 from Bit-Academy-Students/BBA-0-mappen-structuur
+Author: Ties Noordhuis 
+Date/Time:  Tue, 8 Oct 2024 15:17:20 +0200
+Commit: add file structure
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 8 Oct 2024 14:39:49 +0200
+Commit: added merge conflicts
+Author: Ties Noordhuis 
+Date/Time:  Tue, 8 Oct 2024 16:30:52 +0200
+Commit: demo connection FE - BE
+Author: TiesNoordhuisBITAcademy 
+Date/Time:  Tue, 8 Oct 2024 16:23:50 +0200
+Commit: Merge pull request #3 from Bit-Academy-Students/BBA-1-api-event-details
+Author: Ties Noordhuis 
+Date/Time:  Tue, 8 Oct 2024 14:37:16 +0200
+Commit: add readme
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 8 Oct 2024 14:29:12 +0200
+Commit: Merge branch 'BBA-2'
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 8 Oct 2024 14:28:27 +0200
+Commit: added tailwindcss
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 8 Oct 2024 14:01:05 +0200
+Commit: added components
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 8 Oct 2024 13:39:45 +0200
+Commit: added merging error
+Author: Nour Saif Yassine 
+Date/Time:  Tue, 8 Oct 2024 13:34:19 +0200
+Commit: added package-lock.json
