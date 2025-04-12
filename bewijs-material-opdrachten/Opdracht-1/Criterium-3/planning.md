@@ -55,6 +55,6 @@ Hierdoor zie je dat sprint 3 vooral bestond uit:
 
 ![Link naar screenshot](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/Sprint-3-tickets.png)
 
-**Screenshot folder van scrumboard**:
+**Screenshots folder van scrumboard**:
 
 [Link naar screenshots](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/)
