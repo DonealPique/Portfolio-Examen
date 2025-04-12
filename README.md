@@ -15,8 +15,9 @@ Hieronder vind je een duidelijk overzicht van alle opdrachten, gekoppeld aan hun
 |------------|--------------|--------|
 | **Opdracht 1** | Criterium 1.1 | [Projectomschrijving](./bewijs-material-opdrachten/Opdracht-1/Criterium-1/project-omschrijving.md) |
 |              | Criterium 1.1 | [Definition of Done](./bewijs-material-opdrachten/Opdracht-1/Criterium-1/definition-of-done.md) |
-|              | Criterium 1.2 | [Backlog Screenshot](./bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/sprint1_eind.png) |
 |              | Criterium 1.2 | [User Stories](./bewijs-material-opdrachten/Opdracht-1/Criterium-2/user-stories.md) |
+|              | Criterium 1.2 | [Backlog Screenshot](./bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/sprint1_eind.png) |
+|              | Criterium 1.2 | [Screenshots van scrumboard](./bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/) |
 |              | Criterium 1.3 | [Planning](./bewijs-material-opdrachten/Opdracht-1/Criterium-3/planning.md) |
 |              | Criterium 1.4 | [Voortgangsbewaking](./bewijs-material-opdrachten/Opdracht-1/Criterium-4/voortgang.md) |
 | **Opdracht 2** | Criterium 2.1 - 2.2 | [Sequence Diagram (PNG)](./bewijs-material-opdrachten/Opdracht-2/Criterium-1/Sequence%20diagram%20-%20Event%20planner.png) |
@@ -28,7 +29,7 @@ Hieronder vind je een duidelijk overzicht van alle opdrachten, gekoppeld aan hun
 |              | Criterium 3.6 | [Commit History Video](./bewijs-material-opdrachten/Opdracht-3/Criterium-2/github-commit-history.mp4) |
 |              | Criterium 3.6 | [Commit History Overview](./bewijs-material-opdrachten/Opdracht-3/Criterium-2/Commit-history-overview.mp4) |
 | **Opdracht 4** | Criterium 4.1 - 4.2 | [Test Code](./bewijs-material-opdrachten/Opdracht-4/Criterium-1/cypress/e2e/EventPlanner_spec.cy.js) |
-|| Criterium 4.1 - 4.2 | [Test Plan](./bewijs-material-opdrachten/Opdracht-4/Criterium-1/Test-Plan.md) |
+| | Criterium 4.1 - 4.2 | [Test Plan](./bewijs-material-opdrachten/Opdracht-4/Criterium-1/Test-Plan.md) |
 |              | Criterium 4.3 | [Test Resultaten Screenshot](/bewijs-material-opdrachten/Opdracht-4/Criterium-2/test-resultaten.png) |
 |              | Criterium 4.3 | [Test Rapport](/bewijs-material-opdrachten/Opdracht-4/Criterium-2/Test-Rapport.md) |
 | **Opdracht 5** | Criterium 5.1 - 5.3 | [Verbetervoorstellen](/bewijs-material-opdrachten/Opdracht-5/Criterium-1/Verbetervoorstellen.md) |

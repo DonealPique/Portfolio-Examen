@@ -1,5 +1,7 @@
 # 💡 Verbetervoorstellen – Event Planner Project
 
+Tijdens de scrum meetings kregen we feedback en op basis daarvan de verbetervoorstellen geschreven.
+
 ## ✅ Criterium 5.1 – Op basis van testen
 
 Tijdens het testen met Cypress hebben we gezien dat de meeste functionaliteiten goed werkten, maar er waren ook wat dingen die opvielen of beter konden. Hier zijn drie verbetervoorstellen op basis van de testresultaten:
@@ -69,5 +71,11 @@ Het project was pittig en uitdagend, zeker omdat we weinig ervaring hadden met R
 - **Waarom?** Een teamlid (Anouk) haakte zonder iets te zeggen af, wat voor verwarring zorgde.
 - **Verbetering:** Afspreken dat iedereen updates geeft in een groepschat, ook bij ziekte of uitval.
 - **Voordeel:** Beter overzicht, eerlijkere werkverdeling en minder misverstanden.
+
+---
+
+### Kwam uit de retrospective meeting
+
+[Retrospective meeting](/bewijs-material-opdrachten/Opdracht-8/Criterium-1/retrospective.md)
 
 ---

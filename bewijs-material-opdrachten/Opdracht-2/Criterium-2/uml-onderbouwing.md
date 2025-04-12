@@ -24,10 +24,4 @@ We slaan geen persoonlijke gegevens op zoals IP-adressen of cookies.
 
 Je kunt de hele site gebruiken zonder account. We verzamelen alleen suggesties voor nieuwe events.
 
-Alle data wordt via onze API’s opgehaald en verstuurd in JSON-formaat, wat veilig en duidelijk is.
-
 In de toekomst kan Endeavour via een aparte beheerpagina zelf events toevoegen. Dat is afgeschermd voor gewone gebruikers. (Niet gemaakt)
-
-## ✅ Samenvatting
-
-We hebben goed nagedacht over veiligheid, privacy en ethiek. Alles is simpel, duidelijk en veilig gemaakt. Er wordt geen onnodige data verzameld en alles werkt via veilige routes tussen de website, API en database.

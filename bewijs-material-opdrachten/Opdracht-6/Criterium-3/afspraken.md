@@ -67,3 +67,61 @@ Als een teamlid ziek is of om andere redenen niet beschikbaar is, moet dit zo sn
 - **Acceptabel**: Teamleden zorgen ervoor dat hun taken goed gedocumenteerd zijn, zodat ze snel kunnen worden overgenomen.
 - **Realistisch**: Afwezigheid kan altijd voorkomen, daarom zorgen we dat de werkprocessen hier flexibel op kunnen inspelen.
 - **Tijdsgebonden**: Taakoverdracht vindt plaats na twee werkdagen afwezigheid.
+
+---
+
+## Oplossingen voor afspraken
+
+### 1. Taken reviewen via Pull Request
+
+- Vanaf sprint 2 hebben we afgesproken dat je altijd je code in een feature branch zet.
+- Daarna maak je een Pull Request aan.
+- Iemand anders uit het team moest het reviewen voordat het op main kwam.
+
+### Screenshot bewijs - taken reviewen
+
+![Pull Request 1](/bewijs-material-opdrachten/Opdracht-3/Criterium-2/pull%20request/Review-1.png)
+
+![Pull Request 2](/bewijs-material-opdrachten/Opdracht-3/Criterium-2/pull%20request/Review-2.png)
+
+![Pull Request 3](/bewijs-material-opdrachten/Opdracht-3/Criterium-2/pull%20request/Review-3.png)
+
+---
+
+### 2. Dagelijkse Stand-up
+
+We deden elke dag een korte stand-up van 10 minuten waarin iedereen vertelde:
+
+- Wat heb je gedaan?
+- Wat ga je doen?
+- Loop je ergens vast?
+
+Dit zorgde ervoor dat iedereen wist wie waarmee bezig was.
+
+---
+
+### 3. Scrumboard up-to-date houden
+
+We zorgden ervoor dat het scrumboard altijd klopte:
+
+- Taken gingen pas naar "Done" als het echt af was en iemand het had nagekeken.
+- Taken die nog bezig waren bleven in "Doing".
+- Tasks die af waren maar nog niet reviewed stonden in "Review".
+
+### Screenshot bewijs - Jira board
+
+![Sprint Board](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/sprint-3-finished-board-1.png)
+
+![Sprint Board](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/sprint-3-finished-board-2.png)
+
+---
+
+## 4. Ziekte of Afwezigheid melden
+
+Omdat veel mensen ziek waren of afwezig tijdens het project, hebben we ook afgesproken dat als je ziek bent of weg bent:
+
+- Meld je het voor 10:00 in de groepschat.
+- Na 2 dagen nemen we je taak over zodat het project kan doorgaan.
+- Zorg dat je taken duidelijk en overzichtelijk zijn zodat iemand anders het kan overnemen.
+
+![Ziekte](/bewijs-material-opdrachten/Opdracht-3/Criterium-2/pull%20request/ziek.png)

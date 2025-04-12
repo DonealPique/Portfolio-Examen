@@ -1,66 +1,59 @@
 # **Criterium 1.4: Voortgang bewaken**
 
-Tijdens Sprint 3 hebben we de voortgang bewaakt via ons scrum board. We hebben screenshots gemaakt van de actuele status, met een toelichting over de voortgang, prioriteiten en eventuele wijzigingen. Deze sprint focuste op het afronden van het project en alle gemaakte componenten samenstellen.
+## Hoe ging de planning & voortgang?
 
-## **Sprint 3: Afronden en Testen**
+In sprint 3 lag de focus vooral op het afronden van het project. In het begin van het project hadden we wel een planning gemaakt per sprint, maar niet alles lukte precies zoals gepland. Sommige taken hebben we moeten doorschuiven naar een volgende sprint omdat we het niet af kregen of tegen problemen aan liepen.
 
-| **Doel**             | **Beschrijving**                                                                                                                                       |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **US-10**            | Navigatie en routing implementeren om pagina’s en componenten te linken via React Router.                                                             |
-| **Bugfixing**         | Oplossen van resterende bug.                                                                              |
-| **Finetuning**        | Finaliseren van de UI, filters, paginatie, en testen om alles wel werkt.                                             |
+Sprint 3 was dus vooral bedoeld om:
 
-### **Voortgang Sprint 3**
+- De belangrijkste dingen (must-haves) echt af te krijgen.
+- Bugs te fixen.
+- Componenten en pagina's af te maken die nog niet goed werkte.
+- Alle gemaakte componenten samenstellen
 
-#### **Dag 1**  
+---
 
-- **Status**: Sprint gestart, taken verdeeld.  
-- **Focus**: Start met **US-10** (Navigatie en Routing).  
-- **Toelichting**: React Router opgezet voor client-side routing. Eerste pagina's en componenten gelinkt.  
-- **Aanpassing**: Prioriteit gegeven aan routing-functionaliteit, omdat dit essentieel is voor navigatie.  
+## Keuzes & afwegingen die we hebben gemaakt
 
-#### **Dag 2**  
+| Keuze | Waarom hebben we dit gedaan? |
+|-------|-------------------------------|
+| Eerst navigatie & routing fixen | Zonder navigatie werkt de hele site niet goed. Dit was dus hoogste prioriteit. |
+| Bugs oplossen & testen | Veel kleine fouten moesten weg zodat alles smooth werkt voor gebruikers. |
+| Componenten afmaken | Er waren nog componenten die wel waren gemaakt maar niet waren toegevoegd of klaar waren. Dus daar gingen we mee verder. |
+| Focus op responsive design | We wilden zeker weten dat de website goed werkte op mobiel én desktop. |
 
-- **Status**: Routing werkt en basisnavigatie is operationeel.  
-- **Focus**: Testen van navigatie tussen verschillende pagina’s en events.  
-- **Toelichting**: Klikken op kaarten leidt naar de juiste pagina's, en componenten laden correct. Bugs opgelost bij het renderen van de event-overzichtspagina.  
-- **Aanpassing**: Kleine wijzigingen in de structuur van routes voor betere performantie.  
+---
 
-#### **Dag 3**  
+## Hoe ging het echt?
 
-- **Status**: Navigatie afgerond en getest.  
-- **Focus**: Finetunen van filters en paginatie in het **events overzicht**.  
-- **Toelichting**: Filters voor datum, locatie en naam zijn getest. Paginatie werkt nu op maand en jaar. UI is geoptimaliseerd voor mobiele apparaten.  
-- **Aanpassing**: Op basis van feedback van teamleden kleine aanpassingen gemaakt aan de styling en performance van de filters.  
+| Dag | Wat hebben we gedaan? | Wat was de focus? | Wat viel op? |
+|-----|-----------------------|-------------------|--------------|
+| Dag 1 | Start van sprint 3 | Routing + navigatie fixen | Veel werk om alles goed te linken met React Router. |
+| Dag 2 | Routing verder getest | Pagina's linken + event cards klikbaar maken | Bugs met verkeerde routes gefixt. |
+| Dag 3 | Filters & paginatie afmaken | Alles moest goed samenwerken | Styling verbeterd en filters getest. |
+| Dag 4 | Bugs fixen + UI check | Responsiveness checken | Kleine fouten opgelost in styling. |
+| Dag 5 | Laatste test + klaarzetten voor oplevering | Alles werkt goed samen | Project klaar voor presentatie. |
 
-#### **Dag 4**  
+---
 
-- **Status**: Afronden van de laatste functionaliteiten en UI-testing.  
-- **Focus**: Oplossen van resterende bugs en UI-validatie op verschillende schermformaten.  
-- **Toelichting**: Responsieve lay-out volledig getest op desktop, tablet en mobiel.
-- **Aanpassing**: bugs opgelost.
+## Waarom was dit belangrijk?
 
-#### **Dag 5**  
+Omdat we best veel struggles hadden tijdens dit project (ziekte, weinig ervaring met React, tijdsdruk), moesten we slim kiezen wat we gingen doen. Dus in plaats van alles perfect willen maken, hebben we keuzes gemaakt om vooral de belangrijkste onderdelen goed te krijgen.
 
-- **Status**: Laatste tests en review van de projectfunctionaliteiten.  
-- **Focus**: voorbereiden.  
-- **Toelichting**: Alle functionaliteiten zijn klaar voor oplevering.
-- **Aanpassing**: bugs opgelost.
+---
 
-## **Sprint 3 Screenshot Overzicht**
+## Screenshots voortgang Sprint 3
 
-| **Dag**         | **Screenshot**                                                                                     |
-|------------------|--------------------------------------------------------------------------------------------------|
-| **Dag 1**       | ![Sprint 3 - Dag 1](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/sprint-3-board.png)                                                             |
-| **Dag 2**       | ![Sprint 3 - Dag 2](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/Sprint-3-board2.png)                                                             |
-| **Dag 3**       | ![Sprint 3 - Dag 3](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/sprint-3-finished-board-2.png)                                                             |
-| **Dag 4**       | ![Sprint 3 - Dag 4](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/sprint-3-finished-board-3.png)                                                             |
-| **Eindresultaat**| ![Sprint 3 - Eindresultaat](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/Sprint-3-tickets.png)                                                 |
+| Dag | Screenshot |
+|-----|------------|
+| Dag 1 | ![Dag 1](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/sprint-3-board.png) |
+| Dag 2 | ![Dag 2](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/Sprint-3-board2.png) |
+| Dag 3 | ![Dag 3](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/sprint-3-finished-board-2.png) |
+| Dag 4 | ![Dag 4](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/sprint-3-finished-board-3.png) |
+| Eindresultaat | ![Eindresultaat](/bewijs-material-opdrachten/Opdracht-1/Criterium-2/Scrumboard/Sprint-3-tickets.png) |
 
-## **Keuzes en Afwegingen**
+---
 
-Tijdens Sprint 3 hebben we de volgende keuzes en afwegingen gemaakt:  
+## Kort samengevat
 
-1. **Prioriteit aan Navigatie en Routing**: Omdat dit een essentiële feature was voor het project, hebben we dit als eerste aangepakt.  
-2. **UI Finetuning**: Op basis van feedback van de opdrachtgever hebben we extra aandacht besteed aan de responsiveness en React routing.  
-3. **Bugs en Testing**: Voor de oplevering hebben we uitgebreid getest om zeker te zijn dat alle componenten werken.  
+> Sprint 3 was vooral belangrijk om alles bij elkaar te brengen, te testen en af te maken. Ondanks dat we niet alles hebben kunnen doen wat we wilden, hebben we de must-have onderdelen wel afgerond.
