@@ -22,6 +22,8 @@ Hieronder vind je een duidelijk overzicht van alle opdrachten, gekoppeld aan hun
 |              | Criterium 1.4 | [Voortgangsbewaking](./bewijs-material-opdrachten/Opdracht-1/Criterium-4/voortgang.md) |
 | **Opdracht 2** | Criterium 2.1 - 2.2 | [Sequence Diagram (PNG)](./bewijs-material-opdrachten/Opdracht-2/Criterium-1/Sequence%20diagram%20-%20Event%20planner.png) |
 |              | Criterium 2.1 - 2.2 | [Sequence Diagram (Lucidchart)](./bewijs-material-opdrachten/Opdracht-2/Criterium-1/uml-diagram.md) |
+| **Opdracht 2** | Criterium 2.1 - 2.2 | [Activity Diagram (PNG)](./bewijs-material-opdrachten/Opdracht-2/Criterium-1/Activity%20diagram%20-%20Event%20planner%20.png) |
+|              | Criterium 2.1 - 2.2 | [Activity Diagram (Lucidchart)](./bewijs-material-opdrachten/Opdracht-2/Criterium-1/uml-diagram.md) |
 |              | Criterium 2.3 | [UML Onderbouwing](./bewijs-material-opdrachten/Opdracht-2/Criterium-2/uml-onderbouwing.md) |
 | **Opdracht 3** | Criterium 3.1 - 3.5 | [Mijn bijdrage & Commits](./bewijs-material-opdrachten/Opdracht-3/Criterium-1/project-repo.md) |
 |              | Criterium 3.1 - 3.5 | [Project Repository (zip)](./bewijs-material-opdrachten/Opdracht-3/Criterium-1/Bounty-project-endeavour-x-bit-academy-main.zip) |
