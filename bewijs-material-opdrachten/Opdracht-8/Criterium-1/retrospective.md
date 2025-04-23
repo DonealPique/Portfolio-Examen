@@ -30,11 +30,9 @@ De videos van de overleg sessie en standup zijn hier terug te kijken:
 
 Tijdens het einde van de eerste sprint hadden we een overleg met het team van Endeavour. In dit gesprek bespraken we onze voortgang tot nu toe en waar we tegenaan liepen. We kregen feedback over wat al goed ging en wat nog verbeterd moest worden, wat erg waardevol was voor het vervolg van het project.
 
-* [Retrospective met het team](https://www.youtube.com/watch?v=Vm9HjDKOftY&ab_channel=DonealPiqu%C3%A9)
+* [Retrospective met het team](https://www.youtube.com/watch?v=apG0b6N2bgg&ab_channel=DonealPiqu%C3%A9)
 
-De dag na het overleg met Endeavour hielden we een dagelijkse stand-up als team. We bespraken de stand van zaken en wat er nog moest gebeuren. Ook keken we naar eventuele problemen en bedachten we samen oplossingen. Anouk kon er helaas niet bij zijn vanwege ziekte, dus we hebben haar later bijgepraat over wat er besproken is.
-
-Door deze overleggen hadden we een beter beeld van de verwachtingen en konden we de juiste prioriteiten stellen in onze sprintplanning.
+In deze video sprak ik samen met Nour en Osman over hoe onze samenwerking verliep, hoe zij die hebben ervaren, wat er beter had gekund.
 
 ## 🎯 Reflectie
 
@@ -48,12 +46,6 @@ Ondanks al deze tegenslagen ben ik best trots op wat we hebben neergezet. Het wa
 
 Ik heb in deze periode wel redelijk wat geleerd:
 
-Hoe Docker werkt en hoe je het toepast.
-
 Hoe je met Git werkt, inclusief pull/merge requests.
 
 Scrum in de praktijk toepassen.
-
-En misschien wel het belangrijkste: doorzetten, zelfs als het tegenzit.
-
-Deze ervaring zal ik niet snel vergeten. 💪

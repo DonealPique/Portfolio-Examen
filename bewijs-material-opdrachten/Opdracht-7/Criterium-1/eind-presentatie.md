@@ -26,8 +26,6 @@ body {
 
 De video van mijn presentatie is hier terug te kijken:
 
-* [Eind-presentatie](https://www.youtube.com/watch?v=ySSVpNp7YUo&ab_channel=DonealPiqu%C3%A9)
+* [Eind-presentatie](https://www.youtube.com/watch?v=OivS8YkMQEs&ab_channel=DonealPiqu%C3%A9)
 
-Dit was presentatie voor het Endeavour-project. Helaas was ik niet aanwezig bij de officiële eindpresentatie omdat ik de trein had gemist. Daardoor kon ik op dat moment geen directe feedback of input van het bedrijf zelf krijgen.
-
-Gelukkig heb ik mijn presentatie later alsnog kunnen geven, samen met coach Ties, Shazib en Nour. Tijdens deze sessie heb ik uitgelegd wat ik allemaal had gedaan. Coach Ties stelde ook wat vragen over het proces en mijn keuzes, die ik toen heb beantwoord.
+Dit was mijn presentatie voor het Endeavour-project. Helaas was ik niet aanwezig bij de officiële eindpresentatie omdat ik de trein had gemist. Daardoor kon ik op dat moment geen directe feedback of input van het bedrijf zelf krijgen.

@@ -39,6 +39,7 @@ Hieronder vind je een duidelijk overzicht van alle opdrachten, gekoppeld aan hun
 |              | Criterium 6.1 - 6.2 | [Overleg met Team/Coach](./bewijs-material-opdrachten/Opdracht-6/Criterium-2/overleg-sessie.md) |
 |              | Criterium 6.3 - 6.4 | [Afspraken binnen team](./bewijs-material-opdrachten/Opdracht-6/Criterium-3/afspraken.md) |
 | **Opdracht 7** | Criterium 7.1 - 7.3 | [Eindpresentatie Reflectie](./bewijs-material-opdrachten/Opdracht-7/Criterium-1/eind-presentatie.md) |
+|  | Criterium 7.1 - 7.3 | [PP Portfolio Presentatie](./bewijs-material-opdrachten/Opdracht-7/Criterium-1/PortfolioPresentatie.pdf) |
 | **Opdracht 8** | Criterium 8.1 - 8.3 | [Retrospective](./bewijs-material-opdrachten/Opdracht-8/Criterium-1/retrospective.md) |
 
 ---
