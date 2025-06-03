@@ -6,7 +6,7 @@ screenshot van mijn sequence diagram gemaakt in lucidchart:
 
 ## Link naar lucid chart voor Sequence diagram
 
-[Lucid chart UML Sequence diagram](https://lucid.app/lucidchart/9861e5f0-2bba-4015-9167-4d39d6e6044e/edit?viewport_loc=1064%2C-623%2C1704%2C742%2C0_0&invitationId=inv_fd62ee47-185d-4d31-ab47-bdf5f5a3a38a)
+[Lucid chart UML Sequence diagram](https://lucid.app/lucidchart/e174440c-cfac-4fd8-8adc-0c405e0c1c72/edit?viewport_loc=-664%2C146%2C3390%2C4300%2C0_0&invitationId=inv_2eb2aba1-7e04-4b87-a7a4-58aa3e9e36ba)
 
 ---
 
@@ -16,4 +16,4 @@ screenshot van mijn Activity diagram gemaakt in lucidchart:
 
 ## Link naar lucid chart voor Activity diagram
 
-[Lucid chart UML Activity diagram](https://lucid.app/lucidchart/a39f2633-73bd-4f7b-8dd0-6b5464d1bca6/edit?viewport_loc=-2704%2C-1426%2C5115%2C2228%2C0_0&invitationId=inv_ab9373df-5fee-4d05-926b-3a703e805032)
+[Lucid chart UML Activity diagram](https://lucid.app/lucidchart/a39f2633-73bd-4f7b-8dd0-6b5464d1bca6/edit?viewport_loc=-949%2C-1612%2C1951%2C2476%2C0_0&invitationId=inv_ab9373df-5fee-4d05-926b-3a703e805032)
