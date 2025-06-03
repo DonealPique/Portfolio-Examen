@@ -6,7 +6,7 @@ screenshot van mijn sequence diagram gemaakt in lucidchart:
 
 ## Link naar lucid chart voor Sequence diagram
 
-[Lucid chart UML Sequence diagram](https://lucid.app/lucidchart/e174440c-cfac-4fd8-8adc-0c405e0c1c72/edit?viewport_loc=-664%2C146%2C3390%2C4300%2C0_0&invitationId=inv_2eb2aba1-7e04-4b87-a7a4-58aa3e9e36ba)
+[Lucid chart UML Sequence diagram](https://lucid.app/lucidchart/e174440c-cfac-4fd8-8adc-0c405e0c1c72/edit?viewport_loc=-766%2C156%2C3100%2C1350%2C0_0&invitationId=inv_2eb2aba1-7e04-4b87-a7a4-58aa3e9e36ba)
 
 ---
 
